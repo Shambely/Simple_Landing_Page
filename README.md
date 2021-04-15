@@ -1,2 +1,2 @@
 # Simple_Landing_Page
-Simple Landing Page With Email Subscribe
+ https://shambely.github.io/Simple_Landing_Page/
